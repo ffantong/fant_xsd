@@ -1,0 +1,9 @@
+E:\ff\prename\prename\bin\Debug\prename.exe.config
+E:\ff\prename\prename\bin\Debug\prename.exe
+E:\ff\prename\prename\bin\Debug\prename.pdb
+E:\ff\prename\prename\obj\Debug\prename.csprojResolveAssemblyReference.cache
+E:\ff\prename\prename\obj\Debug\prename.Form1.resources
+E:\ff\prename\prename\obj\Debug\prename.Properties.Resources.resources
+E:\ff\prename\prename\obj\Debug\prename.csproj.GenerateResource.Cache
+E:\ff\prename\prename\obj\Debug\prename.exe
+E:\ff\prename\prename\obj\Debug\prename.pdb
